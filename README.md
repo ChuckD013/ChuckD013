@@ -14,7 +14,7 @@ I create efficient, super-charged canvas apps that implement Power Automate Flow
 ## 🤝 Let’s Collaborate
 
 I’d love to collaborate and assist you in getting your project across the finish line!  
-Feel free to [open an issue](https://github.com/ChuckD013/Power-Apps/issues) or [contact me](mailto:your.email@domain.com).
+Feel free to [open an issue](https://github.com/ChuckD013/Power-Apps/issues) or [contact me](mailto:cedennis13@outlook.com).
 
 ---
 

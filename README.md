@@ -18,5 +18,5 @@ Feel free to [open an issue](https://github.com/ChuckD013/Power-Apps/issues) or 
 
 ---
 
-*Thank you for visiting my repository!*# Power-Apps
+*Thank you for visiting my repository!*
 Unique tools for Power Apps that make using Power apps easier
